@@ -1,8 +1,22 @@
 # HTML-laskin
 
+![GitHub Pages](https://img.shields.io/badge/Live-Demo-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blue)
+
+## 📸 Esikatselu
+
+![Sovelluksen esikatselu](assets/screenshot.png)
+
+## 🔗 Live Demo
+
+👉 https://thermopylai.github.io/javascript-calculator
+
+---
+
 Yksinkertainen selainpohjainen nelilaskin, joka on toteutettu HTML:llä, JavaScriptillä ja Bootstrapilla. Sovellus tarjoaa selkeän käyttöliittymän peruslaskutoimituksiin ja toimii suoraan selaimessa ilman erillistä asennusta.
 
-## Kuvaus
+## 📖 Kuvaus
 
 Tämä projekti on harjoitustyö, jossa on yhdistetty useita verkkokehityksen perustekniikoita samaan pieneen sovellukseen. Laskimessa on painikkeet numeroille, perusoperaattoreille, desimaalierottimelle, suluille sekä toiminnoille **clear**, **backspace** ja **calculate**. Käyttöliittymä hyödyntää Bootstrapin valmiita tyyliluokkia ja Bootstrap Icons -ikoneita, mikä tekee ulkoasusta siistin ja helposti luettavan.
 
